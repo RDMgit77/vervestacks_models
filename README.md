@@ -497,8 +497,8 @@ git clone -b vervestacks-<ISO> https://github.com/your-org/vervestacks-models.gi
 ## 📞 **Contact**
 
 - **🌐 Website**: [vervestacks.cloud](https://vervestacks.cloud)
-- **📧 Email**: info@vervestacks.org  
-- **📖 Documentation**: [docs.vervestacks.org](https://docs.vervestacks.org)
+- **📧 Email**: info@kanors.com  
+- **📖 Documentation**: [vervestacks.readthedocs.io](https://vervestacks.readthedocs.io/en/latest/)
 
 ---
 
